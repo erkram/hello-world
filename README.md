@@ -1,2 +1,2 @@
 # hello-world
-This is the first of my programs to post.
+I'm a noob at git and working f mom an iPad.
